@@ -1,0 +1,44 @@
+{
+    "name": "green-n-blue",
+    "displayName": "green-n-blue",
+    "description": "A dark VS Code theme centered around green and blue",
+    "version": "0.0.1",
+	"publisher": "makuke1234",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+	"keywords":
+	[
+		"theme",
+		"green",
+		"blue",
+		"green-n-blue",
+		"green n blue",
+		"green-and-blue",
+		"green and blue",
+		"2 colors",
+		"vivid",
+		"vivid colors",
+		"material theme"
+	],
+    "contributes":
+	{
+        "themes": [
+            {
+                "label": "Green n' blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Green n' blue-color-theme.json"
+            }
+        ]
+    },
+	"license": "MIT License",
+	"repository":
+	{
+		"type": "git",
+		"directory": "https://github.com/makuke1234/green-n-blue-vscode.git"
+	},
+	"homepage": "https://github.com/makuke1234/green-n-blue-vscode/blob/master/README.md"
+}
