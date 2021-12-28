@@ -28,7 +28,7 @@ A colorful theme utilising 2 primary colors - green and blue.
 
 ## Markdown
 
-[MD Snip 1](https://github.com/makuke1234/green-n-blue-vscode/raw/master/Images/SnipMD1.PNG)
+![MD Snip 1](https://github.com/makuke1234/green-n-blue-vscode/raw/master/Images/SnipMD1.PNG)
 
 
 **Enjoy!**
