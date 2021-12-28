@@ -2,7 +2,7 @@
     "name": "green-n-blue",
     "displayName": "green-n-blue",
     "description": "A dark VS Code theme centered around green and blue",
-    "version": "0.0.1",
+    "version": "0.0.2",
 	"publisher": "makuke1234",
     "engines": {
         "vscode": "^1.63.0"
@@ -15,11 +15,11 @@
 		"theme",
 		"green",
 		"blue",
+		"red",
 		"green-n-blue",
 		"green n blue",
 		"green-and-blue",
 		"green and blue",
-		"2 colors",
 		"vivid",
 		"vivid colors",
 		"material theme"

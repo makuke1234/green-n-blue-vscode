@@ -92,7 +92,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#c792ea"
+				"foreground": "#4bffde"
 			}
 		},
 		{
@@ -112,7 +112,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89ddff"
+				"foreground": "#75a6ba"
 			}
 		},
 		{
@@ -143,8 +143,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ffc75f",
-				"fontStyle": ""
+				"foreground": "#ffc800",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -178,7 +178,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#abffab",
+				"foreground": "#b0eeff",
 				"fontStyle": ""
 			}
 		},
@@ -222,7 +222,8 @@
 			],
 			"settings":
 			{
-				"foreground": "#ff6868"
+				"foreground": "#ffa1a1",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -236,10 +237,16 @@
 			}
 		},
 		{
-			"scope": "entity.name.type",
+			"scope":
+			[
+				"entity.name.type",
+				"entity.name.function.constructor",
+				"entity.name.function.destructor"
+			],
 			"settings":
 			{
-				"foreground": "#00ff7b"
+				"foreground": "#ddff00",
+				"fontStyle": "bold"
 			}
 		},
 		{
