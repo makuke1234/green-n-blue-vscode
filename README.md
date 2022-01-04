@@ -5,6 +5,9 @@ A colorful theme utilising 2 primary colors - green and blue.
 
 # Changelog
 
+* v 0.5.0
+	* make function names deep yellow
+	
 * v 0.0.3
 	* remove bold function names and custom types
 
