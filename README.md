@@ -5,6 +5,9 @@ A colorful theme utilising 2 primary colors - green and blue.
 
 # Changelog
 
+* v 0.7.0
+	* make default storage types *italic*
+
 * v 0.6.0
 	* new darker color scheme
 

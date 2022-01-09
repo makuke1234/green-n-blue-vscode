@@ -98,6 +98,14 @@
 			}
 		},
 		{
+			"name": "Storage",
+			"scope": "storage.type",
+			"settings":
+			{
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
