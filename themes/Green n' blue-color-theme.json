@@ -153,8 +153,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FFC800",
-				"fontStyle": "bold"
+				"foreground": "#ff8400",
+				"fontStyle": "italic"
 			}
 		},
 		{
